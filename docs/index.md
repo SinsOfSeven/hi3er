@@ -5278,7 +5278,7 @@ Signet | Priority
 ## Palatinus Equinox
 Quick Search: PE, Juan, Horse, Goose, Dudu
 
-![Is this too lewd lmao](https://elysian-realm.vercel.app/valkyries/palatinus-equinox.webp)
+![天元骑英 by MAOH玥儿](https://i.pximg.net/img-original/img/2022/02/13/00/17/37/96196806_p0.jpg)
 
 ### <p align="center">-- Equinox Severance Build</p>
 
@@ -7610,7 +7610,7 @@ Signet | Priority
 ## Valkyrie Gloria
 Quick search: VG, Dudu, Goose
 
-![Vercel VG](https://elysian-realm.vercel.app/valkyries/valkyrie-gloria.webp)
+![把你们都变成串串 by Alset](https://i.pximg.net/img-original/img/2020/03/10/14/09/20/80022875_p0.jpg)
 
 ### <p align="center">-- Durandab Does it Again!</p>
 
