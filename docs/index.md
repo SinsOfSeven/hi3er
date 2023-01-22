@@ -2,7 +2,7 @@
 ***
 <p align="center">Please contact `Rafe#5610` or `FrediSK#5056` or `boba#8849` if there are any typos or not updated load buffs.</p>
 <p align="center">Contact `Adori - Columbina Supremacy#6481` or `Rafe#5610` until further notice (probably not Butter#2252) if there are any build questions/suggestions.</p>
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
 [Return to Honkai Rentry Index](https://rentry.org/honkai3)
 
 [Github Repository](https://github.com/ButteryRafa/hi3er)
@@ -4452,7 +4452,7 @@ Quick search: Li Sus, Sushang, JK, Sussy
 Rank | Difficulty Done | Recommended Gear | Clear Time | Run
 :------: | :------: | :------: | :------: | :------:
 SS0 | Finality | Nocturnal & Shenzhou | 3:35m (6.2 1st Half) | [https://youtu.be/DBThFHSxM0E](https://youtu.be/DBThFHSxM0E)
-S0 | Finality | GTX & Scott | 8:49m (6.2 1st Half) | [https://youtu.be/4L4DtshNoG0](https://youtu.be/4L4DtshNoG0)
+S0 | Finality | GTX & Scott | 8:49m (6.3) | [https://youtu.be/D7OvS_jMpLs](https://youtu.be/D7OvS_jMpLs)
 
 !!! danger
     Sus is a pretty strong valkyrie in her own right, and her downscalability is one of the best amongst the available valkyries in ER.
@@ -7104,7 +7104,7 @@ Quick search: SN, Saule, SNoDamage
 !!! note
     Updated 6.3. Truthfully, you should just avoid using this Valk for the purposes of the weekly ER clear. There are a lot of reasons. But she's simply, the worst performance valk in ER amidst the base S-ranks.
 
->   Boss to be chosen: Husk Mysticism, then Vill-V
+>   Boss to be chosen: Husk Mysticism, then Elysia, Vill-V or Aponia
 
 ####<p align="center">Setup</p>
 
